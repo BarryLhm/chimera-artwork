@@ -7,7 +7,7 @@
    xml:space="preserve"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
    id="svg164"
-   sodipodi:docname="chimera-bg-d.svg"
+   sodipodi:docname="chimera-bg-l-mod.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    inkscape:export-filename="Export\Wallpaper inkscape export light.svg"
    inkscape:export-xdpi="96"
@@ -91,14 +91,14 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.12570787"
-   inkscape:cx="2963.2194"
+   inkscape:cx="2959.2419"
    inkscape:cy="1758.0443"
    inkscape:window-width="1323"
    inkscape:window-height="976"
    inkscape:window-x="341"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg164"
+   inkscape:current-layer="layer1"
    showborder="true"
    borderlayer="true" />
     
@@ -158,7 +158,7 @@
      transform="translate(-11.900809,77.355352)"
      clip-path="none"
      inkscape:label="BG light"
-     style="clip-rule:evenodd;display:none;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+     style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
         <rect
    x="2549.1321"
    y="-312.10236"
@@ -198,7 +198,7 @@
    inkscape:groupmode="layer"
    id="layer6"
    inkscape:label="Bottom Mono Overlay"
-   style="clip-rule:evenodd;display:none;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" /><g
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" /><g
    id="g3"
    inkscape:label="Pattern"
    style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
@@ -521,7 +521,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Pattern light"
-     style="display:none"><rect
+     style="display:inline"><rect
        style="clip-rule:evenodd;display:inline;fill:url(#linearGradient206);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.018;stroke-linejoin:round;stroke-miterlimit:2"
        id="rect205"
        width="5760"
@@ -843,7 +843,7 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Middle Mono Overlay"
-   style="clip-rule:evenodd;display:none;mix-blend-mode:normal;fill:#616161;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   style="clip-rule:evenodd;display:inline;mix-blend-mode:normal;fill:#616161;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
    transform="matrix(3.7190137,0,0,3.7190137,-1366.1959,-832.70597)"><rect
      style="display:inline;mix-blend-mode:saturation;fill:#000000;fill-opacity:1;stroke-width:0.148833"
      id="rect1"
@@ -940,7 +940,7 @@
    inkscape:groupmode="layer"
    id="layer3"
    inkscape:label="Logo light"
-   style="clip-rule:evenodd;display:none;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
    transform="matrix(0.2688885,0,0,0.2688885,367.35436,223.90506)"><path
      d="m 509.04541,867.78607 46.97001,-1.68795 c 6.30877,44.29386 40.95593,78.07475 83.62909,81.85346 l 0.85501,47.88106 -129.88755,7.29286 z m 280.34605,119.68661 -124.01087,6.96294 -0.90914,-47.69691 c 37.44503,-7.01972 67.04355,-36.92364 75.77431,-74.52125 l 46.21309,-1.75175 z m -166.40039,-280.66137 0.85283,49.43416 c -36.15922,10.94031 -63.64759,43.7747 -68.19086,83.70788 l -46.91241,1.50147 -1.54226,-133.2402 z m 98.13593,145.69308 64.82521,-2.25308 -0.69497,-27.72823 -91.26275,2.77771 0.47424,23.00722 c 0.52472,25.45655 -18.8162,46.98274 -43.32958,47.98932 -24.698,1.01416 -45.22927,-19.15827 -45.64939,-44.96671 -0.41907,-25.74376 19.34418,-47.13855 43.93691,-47.80037 l 22.12097,-0.5953 -1.88929,-96.68921 -26.93624,0.32645 1.25831,69.06536 c -37.35442,3.49587 -66.76093,36.75783 -66.16556,76.63318 0.62394,41.78869 33.91544,74.3535 73.85065,72.5399 37.8077,-1.71699 67.81131,-33.69209 69.46149,-72.30624 z"
      style="clip-rule:evenodd;display:inline;fill:url(#linearGradient325);fill-rule:evenodd;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:2"
@@ -951,7 +951,7 @@
    inkscape:groupmode="layer"
    id="layer9"
    inkscape:label="Top Mono Overlay"
-   style="display:none"><g
+   style="display:inline"><g
      id="g7"
      inkscape:label="Logo colorful"
      style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
